@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="edittext_uri">edittext_uri</string>
+    <string name="button_uri">button_uri</string>
+    <string name="edittext_loc">edittext_loc</string>
+    <string name="button_loc">button_loc</string>
+    <string name="edittext_share">edittext_share</string>
+    <string name="button_share">button_share</string>
+</resources>
